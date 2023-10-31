@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.2 REC.cpp
+C:\Users\TONYA\source\repos\ap_6.2 REC\ap_6.2 REC\6.2 REC.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\TONYA\source\repos\ap_6.2 REC\x64\Debug\UnitTest6.2 REC.lib and object C:\Users\TONYA\source\repos\ap_6.2 REC\x64\Debug\UnitTest6.2 REC.exp
+  UnitTest6.2 REC.vcxproj -> C:\Users\TONYA\source\repos\ap_6.2 REC\x64\Debug\UnitTest6.2 REC.dll
